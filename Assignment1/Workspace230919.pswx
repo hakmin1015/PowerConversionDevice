@@ -1,0 +1,16 @@
+<workspace name="Workspace230919" version="5.0.2" crc="48923902">
+  <projects>
+    <project type="project" name="Example1" filepath=".\Example1.pscx" />
+    <project type="project" name="Example2" filepath=".\Example2.pscx" />
+    <project type="project" name="Example3" filepath=".\Example3.pscx" />
+  </projects>
+  <simulations />
+  <pmr />
+  <messagegrid expanded="">
+    <column name="Icon" />
+    <column name="Id" />
+    <column name="Component" />
+    <column name="Namespace" />
+    <column name="Description" />
+  </messagegrid>
+</workspace>

@@ -1,0 +1,55 @@
+<workspace name="ArcFurnace" version="5.0.0" crc="130009751">
+  <paramlist name="options">
+    <param name="compile_save_enable" value="false" />
+    <param name="autosave_interval" value="0" />
+    <param name="display_project_file_name" value="false" />
+    <param name="sort_messages" value="false" />
+    <param name="type_conversion_warn" value="1" />
+    <param name="private_env" value="true" />
+    <param name="unit_system_warn" value="1" />
+    <param name="case_sensitivity" value="true" />
+    <param name="ss_limit" value="256" />
+    <param name="MaxRadioCount" value="256" />
+    <param name="cim_compatibility" value="true" />
+    <param name="MaxConcurrentSim" value="32" />
+    <param name="SocketPortBase" value="30000" />
+    <param name="memory_notify" value="256" />
+    <param name="output_empty" value="1" />
+    <param name="output_excess" value="1" />
+    <param name="output_density" value="1" />
+    <param name="waveform_overwrite" value="1" />
+    <param name="snapshot_overwrite" value="1" />
+    <param name="duplicate_messages" value="100" />
+    <param name="runtime_canvas_lock" value="0" />
+  </paramlist>
+  <projects>
+    <project type="library" name="eaf_library" filepath=".\eaf_library.pslx" />
+    <project type="project" name="Flicker_model_Vctrl" filepath=".\Flicker_model_Vctrl.pscx" />
+  </projects>
+  <simulations>
+    <simulation name="default" dependson="None" id="1326931723" classid="SimulationSet">
+      <task namespace="Flicker_model_Vctrl" classid="SimulationTask" id="790175601" controlgroup="" volley="1" affinity="1" clean="false">
+        <paramlist name="Options">
+          <param name="simulationset" value="" />
+          <param name="namespace" value="Flicker_model_Vctrl" />
+          <param name="name" value="" />
+          <param name="ammunition" value="1" />
+          <param name="volley" value="1" />
+          <param name="affinity_type" value="1" />
+          <param name="affinity" value="1" />
+          <param name="rank_snap" value="false" />
+          <param name="substitutions" value="" />
+          <param name="clean" value="false" />
+        </paramlist>
+      </task>
+      <paramlist name="Default" />
+    </simulation>
+  </simulations>
+  <messagegrid expanded="">
+    <column name="Icon" />
+    <column name="Id" />
+    <column name="Component" />
+    <column name="Namespace" />
+    <column name="Description" />
+  </messagegrid>
+</workspace>

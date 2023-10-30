@@ -1,0 +1,16 @@
+<workspace name="Workspace231007" version="5.0.2" crc="27708751">
+  <projects>
+    <project type="project" name="Flicker_model_Vctrl" filepath=".\Flicker_model_Vctrl.pscx" />
+    <project type="library" name="eaf_library" filepath=".\eaf_library.pslx" />
+    <project type="project" name="a_Lecture3__Example_fft" filepath=".\[Lecture3] Example fft.pscx" />
+  </projects>
+  <simulations />
+  <pmr />
+  <messagegrid expanded="">
+    <column name="Icon" />
+    <column name="Id" />
+    <column name="Component" />
+    <column name="Namespace" />
+    <column name="Description" />
+  </messagegrid>
+</workspace>

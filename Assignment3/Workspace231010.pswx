@@ -1,0 +1,17 @@
+<workspace name="Workspace231010" version="5.0.2" crc="128883150">
+  <projects>
+    <project type="project" name="a_Lecture4__SwitchingCircuit" filepath=".\[Lecture4] SwitchingCircuit.pscx" />
+    <project type="project" name="lec4_buck_converter" filepath=".\lec4_buck_converter.pscx" />
+    <project type="project" name="lec4_boost_converter" filepath=".\lec4_boost_converter.pscx" />
+    <project type="project" name="lec4_buck_boost_converter" filepath=".\lec4_buck_boost_converter.pscx" />
+  </projects>
+  <simulations />
+  <pmr />
+  <messagegrid expanded="">
+    <column name="Icon" />
+    <column name="Id" />
+    <column name="Component" />
+    <column name="Namespace" />
+    <column name="Description" />
+  </messagegrid>
+</workspace>

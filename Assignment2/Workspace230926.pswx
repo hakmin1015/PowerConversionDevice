@@ -1,0 +1,14 @@
+<workspace name="Workspace230926" version="5.0.2" crc="113250330">
+  <projects>
+    <project type="project" name="ieee_09_bus_Mod" filepath=".\ieee_09_bus_Mod.pscx" />
+  </projects>
+  <simulations />
+  <pmr />
+  <messagegrid expanded="">
+    <column name="Icon" />
+    <column name="Id" />
+    <column name="Component" />
+    <column name="Namespace" />
+    <column name="Description" />
+  </messagegrid>
+</workspace>

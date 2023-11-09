@@ -1,0 +1,18 @@
+<workspace name="Workspace231024" version="5.0.2" crc="31998424">
+  <projects>
+    <project type="project" name="Ex1" filepath=".\Ex1.pscx" />
+    <project type="project" name="Ex2" filepath=".\Ex2.pscx" />
+    <project type="project" name="Ex3" filepath=".\Ex3.pscx" />
+    <project type="project" name="Ex4" filepath=".\Ex4.pscx" />
+    <project type="project" name="Ex5" filepath=".\Ex5.pscx" />
+  </projects>
+  <simulations />
+  <pmr />
+  <messagegrid expanded="">
+    <column name="Icon" />
+    <column name="Id" />
+    <column name="Component" />
+    <column name="Namespace" />
+    <column name="Description" />
+  </messagegrid>
+</workspace>

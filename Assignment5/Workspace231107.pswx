@@ -1,0 +1,15 @@
+<workspace name="Workspace231107" version="5.0.2" crc="62038011">
+  <projects>
+    <project type="project" name="InverterDesign1" filepath=".\InverterDesign1.pscx" />
+    <project type="project" name="InverterDesign2" filepath=".\InverterDesign2.pscx" />
+  </projects>
+  <simulations />
+  <pmr />
+  <messagegrid expanded="">
+    <column name="Icon" />
+    <column name="Id" />
+    <column name="Component" />
+    <column name="Namespace" />
+    <column name="Description" />
+  </messagegrid>
+</workspace>

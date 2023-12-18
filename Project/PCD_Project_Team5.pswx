@@ -1,0 +1,18 @@
+<workspace name="PCD_Project_Team5" version="5.0.2" crc="108430277">
+  <projects>
+    <project type="project" name="Apartment_Design_0th" filepath=".\Apartment_Design_0th.pscx" />
+    <project type="project" name="ieee_09_bus_1PV_2nd" filepath=".\ieee_09_bus_1PV_2nd.pscx" />
+    <project type="project" name="ieee_09_bus_3PV_3rd" filepath=".\ieee_09_bus_3PV_3rd.pscx" />
+    <project type="project" name="ieee_09_bus_LCL_4th" filepath=".\ieee_09_bus_LCL_4th.pscx" />
+    <project type="project" name="PVsystem_1st" filepath=".\PVsystem_1st.pscx" />
+  </projects>
+  <simulations />
+  <pmr />
+  <messagegrid expanded="">
+    <column name="Icon" />
+    <column name="Id" />
+    <column name="Component" />
+    <column name="Namespace" />
+    <column name="Description" />
+  </messagegrid>
+</workspace>
